@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hellboi-atul/hellboi-atul/",
-  "website": "https://github.com/hellboi-atul/hellboi-atul/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/Noor12shah/FaltuUserBot",
+  "website": "https://github.com/Noor12shah",
+  "success_url": "https://t.me/Innocent_Noor",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
