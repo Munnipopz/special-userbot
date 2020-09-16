@@ -22,7 +22,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## GET STRING SESSION FROM REPL RUN 
 
-[![Run on Repl.it](https://repl.it/badge/github/Noor12shah/FaltuUserBot)](https://faltuuserbot.noor12shah.repl.run/)
+[![Run on Repl.it](https://repl.it/badge/github/Noor12shah/FaltuUserBot)](https://FaltuUserBot.noor12shah.repl.run)
 
 
 ### The Normal Way
