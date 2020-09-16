@@ -1,7 +1,7 @@
 # Faltu UserBot
 
 <p align="center">
-<img src="https://telegra.ph/file/5f9b9c075c8ad51843ac9.jpg" alt="FRIDAY USERBOT">
+<img src="https://telegra.ph/file/a9db9e552471d059b1679.jpg" alt="FRIDAY USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
