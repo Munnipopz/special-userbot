@@ -32,31 +32,7 @@
       "value": "",
       "required": false
     },
-    "ALIVE_MSG": {
-      "description": "Set Custom awake Message When entering .awake command.",
-      "value": "",
-      "required": true
-    },
-    "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link for alive pic.",
-      "value": "",
-      "required": true
-    },
-    "BIO_MSG": {
-      "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "",
-      "required": false
-    },
-    "PMPERMIT_PIC": {
-      "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
-      "required": true
-    },
-    "PM_PERMIT_GROUP_ID": {
-      "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
-      "required": false
-    },
+    
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
@@ -75,25 +51,12 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "PLUGIN_CHANNEL": {
-      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": ""
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
-    },
+    
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
        "value": ""
     }, 
-    "STRING_SESSION": {
-      "description": "Get this value by running https://faltuuserbot.noor12shah.repl.run/ ",
-      "value": ""
+    
     },
     "GITHUB_ACCESS_TOKEN": {
       "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
