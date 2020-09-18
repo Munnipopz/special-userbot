@@ -4,7 +4,7 @@
 <img src="https://telegra.ph/file/a9db9e552471d059b1679.jpg" alt="FALTU USERBOT">
 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-by-Noor](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://t.me/Innocent_Noor)
 
 
 
