@@ -1,7 +1,7 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(Ram) Made with ❤ For Support Join @Dark_cobra_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "name": "FaltuUserBot",
+  "description": " Stay committed to your decisions, but stay flexible in your approach. Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen. At what point then is the approach of danger to be expected?",
+  "logo": "https://telegra.ph/file/a9db9e552471d059b1679.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hellboi-atul/hellboi-atul/",
-  "website": "https://github.com/hellboi-atul/hellboi-atul/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/Noor12shah/FaltuUserBot",
+  "website": "",
+  "success_url": "",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -92,7 +92,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running https://faltuuserbot.noor12shah.repl.run/ ",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
