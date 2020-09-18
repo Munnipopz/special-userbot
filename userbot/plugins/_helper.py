@@ -73,7 +73,7 @@ async def _(event):
     result = await borg(functions.help.GetConfigRequest())  # pylint:disable=E0602
     result = result.stringify()
     logger.info(result)  # pylint:disable=E0602
-    await event.edit("""Telethon UserBot Powered by @Dark_cobra_support""")
+    await event.edit("""Telethon UserBot Powered by @innocent_noor""")
 
 
 @borg.on(admin_cmd(pattern="syntax (.*)"))
@@ -84,7 +84,7 @@ async def _(event):
 
     if plugin_name in CMD_LIST:
         help_string = CMD_LIST[plugin_name].__doc__
-        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           @Dark_cobra_support©"
+        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           contact us @innocent_noor"
         
         if help_string:
             plugin_syntax = f"Syntax for plugin **{plugin_name}**:\n\n{help_string}\n{unload_string}"
